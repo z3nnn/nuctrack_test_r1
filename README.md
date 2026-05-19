@@ -18,8 +18,8 @@ Please follow the steps below before filling out the feedback form.
 ## Installation
 
 1. Download `NucTrack-1.0.0.jar`
-2. Copy it into your Fiji `plugins/` folder
-   Could be in: 
+2. Copy it into your Fiji `plugins/` folder\
+   Could be in (or any other location when downloading fiji): 
    - Windows: `C:\...\Fiji.app\plugins\`
    - Mac: `/Applications/Fiji.app/plugins/`
 4. Restart Fiji
@@ -29,11 +29,13 @@ Please follow the steps below before filling out the feedback form.
 
 ## Sample Data
 
-Use the sample dataset located in `sample_data/Mic10ctrl_20/`.  
-It contains:
-- `segmito.tif` — segmented mitochondria image stack
+Use the sample dataset located in `sample_data/folder/`.  
+For example `sample_data/Mic10ctrl_10/`
+It contains (among other files):
+- `mito.tif` - segmented reference object
+- `nuc.tif` — tracked object raw image
+- `segmito.mdf` — segmented mitochondria image stack
 - `tracks.mdf` — MTrackJ tracking file
-- `allspotstable.csv` — spot detection table
 
 ---
 
@@ -56,6 +58,6 @@ Note anything that was confusing, unclear, or required guessing.
 
 After completing the tasks, please fill out the evaluation form:
 
-👉 **[Link to Google Form](#)** *(replace with your form URL)*
+👉 **[[Link to Google Form](https://forms.gle/VouQysQfNuRTnck49)]**
 
 ---
