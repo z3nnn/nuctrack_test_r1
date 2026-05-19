@@ -10,19 +10,20 @@ Please follow the steps below before filling out the feedback form.
 ## Prerequisites
 
 - [Fiji](https://fiji.sc/) installed on your computer
-- The plugin JAR file (provided by the evaluator)
-- Sample data (provided by the evaluator or in the `sample_data/` folder of this repo)
+- The plugin JAR file
+- Sample data (in the `sample_data/` folder of this repo)
 
 ---
 
 ## Installation
 
 1. Download `NucTrack-1.0.0.jar`
-2. Copy it into your Fiji `plugins/` folder  
+2. Copy it into your Fiji `plugins/` folder
+   Could be in: 
    - Windows: `C:\...\Fiji.app\plugins\`
    - Mac: `/Applications/Fiji.app/plugins/`
-3. Restart Fiji
-4. The plugin will appear under **Plugins → NucTrack**
+4. Restart Fiji
+5. The plugin will appear under **Plugins → Tracking → NucTrack**
 
 ---
 
@@ -41,7 +42,7 @@ It contains:
 Please try to complete the following tasks on your own.  
 Note anything that was confusing, unclear, or required guessing.
 
-1. Open Fiji and launch **Plugins → NucTrack**
+1. Open Fiji and launch **Plugins → Tracking → NucTrack**
 2. In the plugin window, load `segmito.tif` using the Browse button
 3. Load `tracks.mdf` using its Browse button
 4. Set the output folder to a folder of your choice
