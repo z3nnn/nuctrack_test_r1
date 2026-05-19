@@ -59,7 +59,3 @@ After completing the tasks, please fill out the evaluation form:
 👉 **[Link to Google Form](#)** *(replace with your form URL)*
 
 ---
-
-## Contact
-
-Any questions? Contact: *(your email or name)*
