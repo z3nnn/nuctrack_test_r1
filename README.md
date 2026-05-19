@@ -1,6 +1,5 @@
-# nuctrack_test_r1
 
-# NucTrack — Usability Test (Round 1)
+# NucTrack — Usability Test (R1)
 
 Evaluation protocol for the NucTrack Fiji plugin.  
 Please follow the steps below before filling out the feedback form.
